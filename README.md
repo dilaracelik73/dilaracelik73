@@ -22,8 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=dilaracelik73&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![snake gif](https://github.com/dilaracelik73/dilaracelik73/blob/output/github-contribution-grid-snake.gif)
-
-
-
