@@ -19,8 +19,8 @@ I’m a Computer Engineering graduate from Kayseri University (GPA 3.83), **rank
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dilaracelik73&theme=highcontrast&hide_border=false&include_all_commits=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=dilaracelik73&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=dilaracelik73&theme=highcontrast&hide_border=false&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilaracelik73&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
